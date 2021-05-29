@@ -3,7 +3,7 @@
 * LAST UPDATED: 2021-04-12
 * AUTHOR: Jamil Abbas
 * REPOSITORY: netflix_bot
-* FOLDER: Fake News Classifier
+
 
 ## Files
 ### Notebook
@@ -28,4 +28,4 @@
 - Source: Kaggle (https://www.kaggle.com/shivamb/netflix-shows)
 - Date Updated: 2020-01-11
 - Use: Contains full list of Netflix programs (TV shows and movies)
-- Variables: show_id, type, title, director, cast, country, date_added, release_year, rating, duration 
+- Variables: show_id, type, title, director, cast, country, date_added, release_year, rating, duration
